@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinaryString",
+            "request": "launch",
+            "mainClass": "BinaryString",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "FactorialGet",
+            "request": "launch",
+            "mainClass": "FactorialGet",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "FirstOccurence",
+            "request": "launch",
+            "mainClass": "FirstOccurence",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "Linkedprobleam",
+            "request": "launch",
+            "mainClass": "Linkedprobleam",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumber",
+            "request": "launch",
+            "mainClass": "NaturalNumber",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "RecursionBasics",
+            "request": "launch",
+            "mainClass": "RecursionBasics",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "RecursionBasics1",
+            "request": "launch",
+            "mainClass": "RecursionBasics1",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "Remove",
+            "request": "launch",
+            "mainClass": "Remove",
+            "projectName": "RECURSION_b77c6875"
+        },
+        {
+            "type": "java",
+            "name": "SortedOrNot",
+            "request": "launch",
+            "mainClass": "SortedOrNot",
+            "projectName": "RECURSION_b77c6875"
+        }
+    ]
+}
